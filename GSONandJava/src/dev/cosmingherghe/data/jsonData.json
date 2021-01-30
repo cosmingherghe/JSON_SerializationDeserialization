@@ -1,0 +1,16 @@
+{
+  "name": "John",
+  "age": 30,
+  "cars": [ "Ford", "BMW", "Fiat" ],
+  "pets": [
+    { "name": "Rex",
+      "color": "Red"
+    },
+    { "name": "Woofy",
+      "color": "White"
+    },
+    { "name": "Bingo",
+      "color": "Brown"
+    }
+  ]
+}
