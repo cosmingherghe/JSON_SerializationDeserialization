@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class ExampleOne {
     public static void main(String[] args) {
 
         File input = new File("src/dev/cosmingherghe/data/jsonData.json");
